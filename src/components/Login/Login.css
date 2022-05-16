@@ -1,0 +1,14 @@
+.login .side-one {
+  background-image: linear-gradient(
+      rgba(26, 34, 107, 0.85),
+      rgba(26, 34, 107, 0.85)
+    ),
+    url("../../assets/images/monitor.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 30px;
+}
+
+.login input::placeholder {
+  font-size: 15px;
+}
